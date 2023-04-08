@@ -6,6 +6,7 @@
 ###### heading1
 This is *italics* text.
 This is **bold** text.
+This is ==bold== text.
 - abcd
 - 1234
 - lkjh
@@ -18,5 +19,6 @@ This is [Github](https://www.markdownguide.org/cheat-sheet/).
 | Header | Title |
 | Paragraph | Text |
 
-==here is some text with a footnote[^]==
+here is some text with a footnote[^]
+
 here is some text with a footnote[^]
