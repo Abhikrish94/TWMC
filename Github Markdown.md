@@ -16,7 +16,7 @@ This is [Github](https://www.markdownguide.org/cheat-sheet/).
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
-| ==Paragraph== | Text |
+| == Paragraph == | Text |
 
 here is some text with a footnote[^]
 here is some text with a footnote[^]
